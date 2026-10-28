@@ -1,0 +1,7 @@
+[server]
+# Loopback keeps the server accessible only from this machine by default.
+host = "127.0.0.1"
+port = 8080
+
+[database]
+path = "./data/household.db"
